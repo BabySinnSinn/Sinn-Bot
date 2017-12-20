@@ -1,3 +1,3 @@
 # Sinn-Bot
 MediaPlayer
-Photo Uploader
+.jpg
