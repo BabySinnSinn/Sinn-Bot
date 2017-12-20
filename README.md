@@ -1,1 +1,2 @@
 # Sinn-Bot
+MediaPlayer
